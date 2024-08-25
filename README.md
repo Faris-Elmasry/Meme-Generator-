@@ -5,7 +5,7 @@
 
 This React application allows users to create and customize memes. Users can add text fields to a meme image, move and edit these text fields, and download the final meme image.
 
-                       ![Screenshot 2024-08-25 094318](https://github.com/user-attachments/assets/efc18960-13df-4379-bba8-3fde2a2f0934)
+ ![Screenshot 2024-08-25 094318](https://github.com/user-attachments/assets/efc18960-13df-4379-bba8-3fde2a2f0934)
 
 ## Features
 
