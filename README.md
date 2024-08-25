@@ -1,4 +1,6 @@
 # Meme Generator App
+![Screenshot 2024-08-25 094408](https://github.com/user-attachments/assets/98d6d77b-6d0d-4f42-8062-fb50a83afde0)
+![Screenshot 2024-08-25 094318](https://github.com/user-attachments/assets/efc18960-13df-4379-bba8-3fde2a2f0934)
 
 ## Overview
 
